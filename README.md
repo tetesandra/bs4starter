@@ -1,2 +1,2 @@
 # bs4starter
-Gulp setup to compile SASS for ootstrap 4
+Gulp setup to compile SASS for Bootstrap 4
